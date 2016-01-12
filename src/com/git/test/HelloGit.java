@@ -1,5 +1,7 @@
 package com.git.test;
 
+import java.util.Date;
+
 /**
  * Created by Captain on 16/1/12.
  */
@@ -10,5 +12,8 @@ public class HelloGit {
         System.out.println("第二次测试");
         System.out.println("第三次测试");
         System.out.println("第四次测试");
+
+        System.out.println(new Date());
     }
+
 }
