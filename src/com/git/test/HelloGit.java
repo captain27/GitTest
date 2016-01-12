@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("hello world");
         System.out.println("第二次测试");
+        System.out.println("第三次测试");
     }
 }
