@@ -14,6 +14,7 @@ public class HelloGit {
         System.out.println("第四次测试");
 
         System.out.println(new Date());
+        System.out.println("connection GitHub test");
     }
 
 }
