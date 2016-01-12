@@ -8,6 +8,7 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("connection GitHub test");
         System.out.println("happy");
+        System.out.println("happy");
     }
 
 }
